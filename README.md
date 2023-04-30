@@ -10,3 +10,5 @@ The repository provides an introduction to the fundamental packages used in data
 The basis of exploratory data analysis is also covered in this repository, with a focus on statistics and correlations. This includes an overview of different types of statistical tests and how to use them to explore data.
 
 Additionally, the repository explains the difference between rule-based algorithms and machine learning algorithms, and provides examples of each. It also includes a step-by-step guide on how to train and run K-Nearest Neighbor (KNN), a popular classification algorithm, using Python and Scikit-learn.
+
+Credit: Thanks to Prof. François Bangui for sharing and teaching me this valuable resource.
